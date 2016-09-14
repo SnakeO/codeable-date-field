@@ -2,7 +2,7 @@
     "name": "wow/codeable-datepicker-widget",
     "description": "Adds a \"Date Field\" widget that utilizes jQuery UI Datepicker.",
     "type": "wordpress-plugin",
-    "license": "http://unlicense.org/UNLICENSE",
+    "license": "UNLICENSE",
     "authors": [
         {
             "name": "Jake Chapa",
