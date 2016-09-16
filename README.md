@@ -7,6 +7,8 @@ Copy the plugin into your `wp-content/plugins/` directory, and then login to you
 
 ![Plugin Screen](https://wow-ss.s3.amazonaws.com/UjqR6H2.png)
 
+If you wish to use `composer` you can add a dependency for our plugin from `WPackagist` at `https://packagist.org/packages/wow/codeable-datepicker-widget`
+
 Usage
 -------------
 Once activated, visit `Appearance -> Widgets` and you will see a `Codeable - Date Field` widget that you can drag into your various Sidebar and Footer areas. Once added, you'll see a screen with all of the widget options.
